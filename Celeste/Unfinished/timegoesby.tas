@@ -1,0 +1,80 @@
+RecordCount: 337
+
+console load nuwut/tgb/TGB
+   1
+
+***S
+  36
+
+#lvl_Intro
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  13,G
+   1,R,J,G
+   7,R,G
+   1,L
+  17,R,D,X
+  12,R,J
+  15,R,D,X
+   1,R
+  22,R,J
+  14,R,U,X
+   2,R,K,G
+   7,R
+   8,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+   1,J
+   4,L,J
+   8,L
+  14,L,Z
+   1,R,J
+  16,R,D,X
+   2,R,J
+  14,R,U,X
+  13,G
+  11,R,G
+   1,L
+  14,R,U,X
+  13,G
+ 236,R,U,G
+   1,L
+  11,R
+   3,R,K,G
+   7,R
+   7,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_Pillars
+   1,R,D,X
+   1,R,J
+   7,R
+  16,R,J
+  12,R,K,G
+   3,R,J,G
+   4,L,J,G
+   2,R,J,G
+   3,J
+   2,R,J
+   5,R,K,G
+  14,R,U,X
+1000,R,U,G
+
+
+   6,R,K,G
+  12,R,U,X
+  67,R,U,G
+  20,R,G
+   2,G
+   1
+   1,R,J,G
+ 100,R,J,G

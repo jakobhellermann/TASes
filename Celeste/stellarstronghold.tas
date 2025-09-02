@@ -1,0 +1,75 @@
+RecordCount: 397
+
+console load glerg/stellarstronghold/stellarstronghold
+   1
+ 190
+   1,N
+  11,J
+   4,L,J
+  17,U,X
+  18,L,J
+  10,L,X
+  21,L,K,G
+  40
+  18,R,U,X
+  13,R,Z
+  11,L,J
+  15,L,U,X
+
+# no stun strat (+13f)
+#  41
+#  14,R,Z
+#   1,R,J
+#  15,R,D,X
+#   8,R
+#  16,R,D
+#  12,R,Z
+#   1,R,J,G
+#   4,R
+#   2
+#  11,R
+#  15,D,X
+#  10,L,D
+#   7,D
+#   4,L,Z
+#  11,L,J
+#  19,L
+#   9,L,Z
+#  16,L,J
+# 122
+
+
+
+
+
+  41
+  14,R,Z
+StunPause
+   8,R,J
+SkipInput,3,1
+  15,U,X
+   9,R
+   3
+   2,L,J
+EndStunPause
+  14,L,J
+  11,U,X
+  40
+  13,L
+  13,R,X
+   9,R,J
+   1,K
+   4,L,J
+  10,L,K
+   4,L,J
+   6,U,X
+  11,R,J
+***S
+   8,R
+   5,R,J
+   1,R
+   1,N
+***
+  12,R,J
+  10,R,Z
+#0:07.752(456)
